@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Gebärdensprache KI">
+  <defs>
+    <linearGradient id="bg" x1="72" y1="72" x2="440" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08110f"/>
+      <stop offset=".56" stop-color="#10161d"/>
+      <stop offset="1" stop-color="#143326"/>
+    </linearGradient>
+    <linearGradient id="hand" x1="164" y1="136" x2="352" y2="384" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b7ffe4"/>
+      <stop offset="1" stop-color="#78d4bd"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="url(#bg)"/>
+  <circle cx="256" cy="256" r="186" fill="#0b1713" stroke="#78d4bd" stroke-width="22"/>
+  <path fill="#f8fafc" d="M322 114h86c18 0 32 14 32 32v62c0 18-14 32-32 32h-30l-44 42v-42h-12c-18 0-32-14-32-32v-62c0-18 14-32 32-32Z"/>
+  <path fill="url(#hand)" d="M164 305c-17 0-31-14-31-31v-74c0-14 11-25 25-25s25 11 25 25v55h13v-91c0-15 12-27 27-27s27 12 27 27v91h13v-79c0-15 12-27 27-27s27 12 27 27v79h13v-51c0-14 12-26 26-26s26 12 26 26v107c0 57-46 103-103 103h-48c-35 0-67-17-87-45l-44-63c-8-12-5-28 7-36 12-9 28-6 36 6l30 42c6 9 16 14 27 14h25v-28h-58Z"/>
+  <text x="256" y="456" fill="#f8fafc" font-family="Arial, sans-serif" font-size="56" font-weight="900" text-anchor="middle">KI</text>
+</svg>
